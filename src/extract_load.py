@@ -1,12 +1,3 @@
-"""
-extract_load.py
----------------
-Pulls data from CoinGecko API and loads it into PostgreSQL.
-
-Usage:
-    python src/extract_load.py
-"""
-
 import os
 import time
 import requests
